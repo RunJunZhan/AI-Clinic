@@ -59,7 +59,7 @@ with tab1:
 # Page2(醫療影像諮詢)
 with tab2:
     st.header("醫療影像 AI 分析")
-    st.write("請上傳您的患部照片或 X 光片，AI 將進行結構化分析。")
+    st.write("請上傳您的患部照片或 X 光片，AI 將進行分析。")
    
     if 'ai_report' not in st.session_state:
         st.session_state['ai_report'] = ""
@@ -87,4 +87,5 @@ with tab2:
             data=st.session_state['ai_report'],
             file_name="AI_Medical_Report.txt",
             mime="text/plain"
+
         )
