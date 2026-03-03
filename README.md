@@ -21,3 +21,6 @@ Follow these steps to run the application on your local machine:
 ```bash
 git clone [https://github.com/RunJunZhan/your-repo-name.git](https://github.com/RunJunZhan/your-repo-name.git)
 cd your-repo-name
+
+**2. Install dependencies**
+
