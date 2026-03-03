@@ -14,9 +14,9 @@ An intelligent, real-time computer vision and LLM-integrated application designe
 * gemini_api.py: Encapsulated module for interacting with the Google Gemini API.
 
 ## Demo
-| Rehabilitation Tracking (State Machine) | AI Medical Image Analysis |
+| Rehabilitation Tracking | AI Medical Image Analysis |
 | :---: | :---: |
-| <img src="link_to_your_squat_gif_or_image" width="400"> | <img src="link_to_your_llm_analysis_image" width="400"> |
+| <img src="./images/Rehabilitation Demo.png" width="400"> | <img src="Medical Image Analysis Demo(1)" width="400"> |
 
 ## Quick Start
 
