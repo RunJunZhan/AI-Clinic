@@ -16,7 +16,7 @@ An intelligent, real-time computer vision and LLM-integrated application designe
 ## Demo
 | Rehabilitation Tracking | AI Medical Image Analysis |
 | :---: | :---: |
-| <img src="./images/Rehabilitation Demo.png" width="400"> | <img src="Medical Image Analysis Demo(1)" width="400"> |
+| <img src="./images/Rehabilitation Demo.png" width="400"> | <img src="Medical Image Analysis Demo-(1)" width="400"> |
 
 ## Quick Start
 
