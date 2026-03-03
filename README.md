@@ -4,8 +4,8 @@ An intelligent, real-time computer vision and LLM-integrated application designe
 
 ## Key Features
 
-* **Real-time Pose Tracking & State Machine:** Engineered a robust counting system using OpenCV and MediaPipe. Implemented a **State Machine** algorithm to classify complex movements (e.g., Squats, Bicep Curls) based on joint angles, providing zero-latency visual feedback and preventing false triggers.
-* **LLM Medical Image Analysis:** Integrated the **Gemini 2.5 Flash API** to process static medical images (e.g., X-rays, skin conditions). The system automatically generates preliminary medical records, structural analysis, and health education advice.
+* **Real-time Pose Tracking & State Machine:** Engineered a robust counting system using OpenCV and MediaPipe. Implemented a State Machine algorithm to classify complex movements (e.g., Squats, Bicep Curls) based on joint angles, providing zero-latency visual feedback and preventing false triggers.
+* **LLM Medical Image Analysis:** Integrated the Gemini 2.5 Flash API to process static medical images (e.g., X-rays, skin conditions). The system automatically generates preliminary medical records, structural analysis, and health education advice.
 
 ## Project Structure
 
