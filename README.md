@@ -26,7 +26,7 @@ Follow these steps to run the application on your local machine:
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/RunJunZhan/your-repo-name.git](https://github.com/RunJunZhan/AI-Clinic.git)
+git clone https://github.com/RunJunZhan/AI-Clinic.git
 cd AI-Clinic
 ```
 
